@@ -1,3 +1,7 @@
 HtDF - How to Design Functions
 Makes hard problems easy.
 Makes easy problems cumbersome (overengineering).
+
+Rkt convention - if a function produces a boolean, append the name with a ?
+e.g.
+(define tall? ...)
