@@ -1,0 +1,7 @@
+The HtDF recipe consists of the following steps:
+
+    Signature, purpose and stub.
+    Define examples, wrap each in check-expect.
+    Template and inventory.
+    Code the function body.
+    Test and debug until correct
